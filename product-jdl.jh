@@ -1,0 +1,7 @@
+
+entity Product{
+    nom String
+    prixUnitaire Long
+    quantity Integer
+  
+}
